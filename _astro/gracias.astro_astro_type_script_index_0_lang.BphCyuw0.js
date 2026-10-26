@@ -1,0 +1,1 @@
+import{i as e}from"./consentimiento.sNdSC5qf.js";try{sessionStorage.getItem(`valoracion-enviada`)&&(sessionStorage.removeItem(`valoracion-enviada`),setTimeout(e,300))}catch{}

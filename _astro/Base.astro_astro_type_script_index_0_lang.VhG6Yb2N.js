@@ -1,0 +1,1 @@
+import{t as e}from"./atribucion.CN7f077S.js";e(),document.addEventListener(`consentimiento`,e);
